@@ -36,7 +36,7 @@ This approach enables validation, conditional rendering, and real-time form data
 ---
 
 ### User Registration Form
-![User Registration Form](<img width="1760" height="1114" alt="Screenshot 2026-03-06 103139" src="https://github.com/user-attachments/assets/46779171-b4c5-4f23-902f-a38e3e8847b9" />
+![User Registration For(<img width="1760" height="1114" alt="Screenshot 2026-03-06 103139" src="https://github.com/user-attachments/assets/46779171-b4c5-4f23-902f-a38e3e8847b9" />
 )
 
 ---
