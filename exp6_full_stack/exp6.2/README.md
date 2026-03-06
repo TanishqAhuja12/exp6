@@ -38,16 +38,20 @@ Client-side validation ensures correctness of user data and provides immediate f
 ## Screenshots
 
 ### Login Form
-![Login Form](screenshots/form2.png)
+<img width="1769" height="1113" alt="Screenshot 2026-03-06 102454" src="https://github.com/user-attachments/assets/4a2b3fcd-dd52-48b2-b3c0-af27fc21b3c8" />
+
 
 ### Invalid Password Validation
-![Invalid Password](screenshots/inavlidpw.png)
+<img width="1770" height="1108" alt="Screenshot 2026-03-06 104137" src="https://github.com/user-attachments/assets/cfab58ca-01a2-4e6c-a0d8-70c3a8834287" />
+
 
 ### Form Submitted Successfully
-![Form Submitted Successfully](screenshots/formsubmitted.png)
+<img width="1750" height="1117" alt="Screenshot 2026-03-06 104216" src="https://github.com/user-attachments/assets/966c693b-e2ec-4e99-9b9b-4e0bcad71850" />
+
 
 ### Login Successful
-![Login Successful](screenshots/loginsuccessful.png)
+<img width="1768" height="1113" alt="Screenshot 2026-03-06 104303" src="https://github.com/user-attachments/assets/9963e083-fe25-4c53-8745-bdc40a3bb0df" />
+
 
 
 ---
