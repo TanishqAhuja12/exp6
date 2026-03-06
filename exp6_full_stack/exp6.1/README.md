@@ -36,18 +36,21 @@ This approach enables validation, conditional rendering, and real-time form data
 ---
 
 ### User Registration Form
-<img width="1760" height="1114" alt="Screenshot 2026-03-06 103139" src="https://github.com/user-attachments/assets/dc966b28-e550-4b7d-9680-1c74125c7526" />
+<img width="785" height="805" alt="Screenshot 2026-03-06 105820" src="https://github.com/user-attachments/assets/f3ead7ee-26de-4df1-8d1f-a761b02635e6" />
+
 
 
 ---
 
 ### Form Inputs Filled Using Controlled Components
-<img width="1752" height="1118" alt="Screenshot 2026-03-06 103321" src="https://github.com/user-attachments/assets/579c89c6-7856-4d1e-8e01-5ee40c3c0820" />
+<img width="241" height="320" alt="Screenshot 2026-03-06 105948" src="https://github.com/user-attachments/assets/283e9b43-96ea-4967-a528-14c030b6f7aa" />
+
 
 ---
 
 ### Registration Successful Output
-<img width="1765" height="1116" alt="Screenshot 2026-03-06 103355" src="https://github.com/user-attachments/assets/a8fc72ab-581b-4bbd-b5a9-46c5272b5243" />
+<img width="776" height="706" alt="Screenshot 2026-03-06 110101" src="https://github.com/user-attachments/assets/782c7646-cecd-4ce6-8490-97eb60934d91" />
+
 
 
 ---
